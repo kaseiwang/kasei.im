@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/kaseiwang
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kasei.im
+  * I am kaseiwang (https://keybase.io/kaseiwang) on keybase.
+  * I have a public key ASBW9xmD9wZyoLLIz3a0Es6Qjt1AAlw2zjn-Eqi2HMwI2Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012056f71983f70672a0b2c8cf76b412ce908edd40025c36ce39fe12a8b61ccc08d80a",
+            "host": "keybase.io",
+            "kid": "012056f71983f70672a0b2c8cf76b412ce908edd40025c36ce39fe12a8b61ccc08d80a",
+            "uid": "0f983ed5f5138abeebce807f1e95d519",
+            "username": "kaseiwang"
+        },
+        "service": {
+            "hostname": "kasei.im",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1488166510,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1488166470,
+        "hash": "97eef9fb9567c4b82eec25c0505ca059802ad1769705a62084996cb2bb7bd3405771885fbe2330a5b361b74d1b84fb6348d4f4660b2a108160caa616318d6f34",
+        "seqno": 926359
+    },
+    "prev": "f380c2e19696c954fc92a31358dceb4e3c6f05a8e7c0433c4fabadced98261af",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVvcZg/cGcqCyyM92tBLOkI7dQAJcNs45/hKothzMCNgKp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNTZmNzE5ODNmNzA2NzJhMGIyYzhjZjc2YjQxMmNlOTA4ZWRkNDAwMjVjMzZjZTM5ZmUxMmE4YjYxY2NjMDhkODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTZmNzE5ODNmNzA2NzJhMGIyYzhjZjc2YjQxMmNlOTA4ZWRkNDAwMjVjMzZjZTM5ZmUxMmE4YjYxY2NjMDhkODBhIiwidWlkIjoiMGY5ODNlZDVmNTEzOGFiZWViY2U4MDdmMWU5NWQ1MTkiLCJ1c2VybmFtZSI6Imthc2Vpd2FuZyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoia2FzZWkuaW0iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4ODE2NjUxMCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg4MTY2NDcwLCJoYXNoIjoiOTdlZWY5ZmI5NTY3YzRiODJlZWMyNWMwNTA1Y2EwNTk4MDJhZDE3Njk3MDVhNjIwODQ5OTZjYjJiYjdiZDM0MDU3NzE4ODVmYmUyMzMwYTViMzYxYjc0ZDFiODRmYjYzNDhkNGY0NjYwYjJhMTA4MTYwY2FhNjE2MzE4ZDZmMzQiLCJzZXFubyI6OTI2MzU5fSwicHJldiI6ImYzODBjMmUxOTY5NmM5NTRmYzkyYTMxMzU4ZGNlYjRlM2M2ZjA1YThlN2MwNDMzYzRmYWJhZGNlZDk4MjYxYWYiLCJzZXFubyI6MTIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAITULXDQ2QBzXSCXh7j2f08JZEXOG8RErx/bT0fIs3f7SA//jqGlwVGFaL8OPInUuyNeMZF2VL6r+Xm5YVICsA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDq3wSzqFJz0e4QrsRkU2p829FTV0YKIUjY+dwbpxIkBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaseiwang
+
+==================================================================

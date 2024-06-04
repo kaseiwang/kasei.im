@@ -1,0 +1,15 @@
+baseURL = 'https://kasei.im/'
+languageCode = 'zh-cn'
+title = 'Kasei.IM'
+theme = "hello-friend-ng"
+
+[params]
+
+[logo]
+logoText = "kasei's blog"
+
+
+[languages]
+[languages.zh]
+[languages.en.params.logo]
+logoText = ""
