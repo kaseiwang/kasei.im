@@ -1,0 +1,1 @@
+Source code of [kasei.im](https://kasei.im), deployed on [Cloudflare Pages](https://pages.cloudflare.com/).
